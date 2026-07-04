@@ -25,5 +25,5 @@
   - [`HCI-Project`](https://github.com/minyi-k03/HCI-Project) : 학사 시스템(샘물 포털) 가시성 및 사용성 개선 프로젝트
 
 ### 🔬 **CGVI Lab**
-  - (연구실에서 진행 중인 스터디나 역할, 참여 중인 프로젝트 내용을 간략히 추가해보세요.)
+  - [`CGVI-Lab-Research-Archieve`](https://github.com/minyi-k03/CGVI-Lab-Research-Archieve)
 
