@@ -1,4 +1,4 @@
-# 👨‍💻 안녕하세요, 고용민입니다.
+#  안녕하세요, 고용민입니다.
 
 🎓 **B.S. Student, Dept. of Software, Sangmyung University**
 
