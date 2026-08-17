@@ -26,5 +26,5 @@
 
 ### 🔬 **CGVI Lab**
   - **Paper Survey & Porting**
-    - [`CGVI-Lab-Research-Archieve`](https://github.com/minyi-k03/CGVI-Lab-Research-Archieve) : 다른 저자의 논문 서베이 및 포팅 아카이브
+    - [`CGVI-Lab-Research-Archive`](https://github.com/minyi-k03/CGVI-Lab-Research-Archieve) : 다른 저자의 논문 서베이 및 포팅 아카이브
 
