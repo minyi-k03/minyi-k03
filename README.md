@@ -18,8 +18,8 @@
 - **Artificial Intelligence**
   - [`Cascade-NLI-NewsFactChecking`](https://github.com/minyi-k03/Cascade-NLI-NewsFactChecking) : SLM(Ko-BigBird) 및 LLM(Llama 3.3) 하이브리드 Cascade 아키텍처 기반 가짜뉴스 팩트체크 시스템
   - [`LargeLanguageModel`](https://github.com/minyi-k03/LargeLanguageModel) : LLM 기능 사용 및 데이터셋을 활용한 Fine-Tuning 실습
-  - [`Machine-Learning`](https://github.com/minyi-k03/Machine-Learning) : 머신러닝 기본 개념 및 실습 코드
-  - [`Deep-Learning`](https://github.com/minyi-k03/Deep-Learning) : 딥러닝 이론 및 실습 저장소
+  - [`Machine-Learning`](https://github.com/minyi-k03/Machine-Learning) : 머신러닝 실습 저장소
+  - [`Deep-Learning`](https://github.com/minyi-k03/Deep-Learning) : 딥러닝 실습 저장소
 
 - **HCI(Human-Computer Interaction) & UI/UX**
   - [`HCI-Project`](https://github.com/minyi-k03/HCI-Project) : 학사 시스템(샘물 포털) 가시성 및 사용성 개선 프로젝트
