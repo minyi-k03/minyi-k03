@@ -7,9 +7,11 @@
 향후 AI 분야 대학원에 진학하여 LLM 및 멀티모달 관련 연구를 이어가고자 하는 목표가 있습니다.
 
 ### 🛠 Tech Stack
-- **Languages:** Python, C, C++
-- **AI / Data:** Machine Learning, Deep Learning, LLM
-- **Frameworks & Tools:** (예: PyTorch, Hugging Face 등 활용하시는 도구 작성)
+- **Languages: Python, C++, C**
+-  **ML/DL: PyTorch, Hugging Face Transformers**
+-  **LLM: LangChain, PEFT, LoRA**
+-  **Tools: Git, GitHub, Docker, Colab**
+-  **Research Interests: Multimodal AI, Vision-Language Models, LLM, Agentic AI**
 
 ---
 
