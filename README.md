@@ -9,9 +9,9 @@
 ### 🛠 Tech Stack
 - **Languages: Python, C++, C**
 -  **ML/DL: PyTorch, Hugging Face Transformers**
--  **LLM: LangChain, PEFT, LoRA**
+-  **LLM: LangChain,Langraph, PEFT, LoRA,QLoRA**
 -  **Tools: Git, GitHub, Docker, Colab**
--  **Research Interests: Multimodal AI, Vision-Language Models, LLM, Agentic AI**
+-  **Interested Job Category: ML Engineer, AI Engineer, MLOps Engineer, Data Engineer, Data Scientist**
 
 ---
 
