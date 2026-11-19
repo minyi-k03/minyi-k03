@@ -11,7 +11,7 @@
 -  **ML/DL: PyTorch, Hugging Face Transformers**
 -  **LLM: LangChain,Langraph, PEFT, LoRA,QLoRA**
 -  **Tools: Git, GitHub, Docker, Colab**
--  **Interested Job Category: AI Engineer/Applied AI Engineer, ML Engineer, Data Engineer**
+-  **Interested Job Category: AI Engineer, AX Engineer, ML Engineer**
 
 ---
 
